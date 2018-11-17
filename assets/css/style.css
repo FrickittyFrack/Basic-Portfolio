@@ -2,3 +2,72 @@
     -webkit-transform:rotate(270deg);
     transform:rotate(270deg);
 }
+
+body {
+    color: black;
+    line-height: 36px !important;
+    background-image: url(../images/keyboard.jpg);
+    background-color: rgba(255, 255, 255, 0.4);
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.my-name {
+    color: #ffffff;
+    background-color: rgb(106, 13, 192);
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.nav {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #ffffff;
+    border: #cccccc solid 2px;
+    font-weight: bold;
+}
+
+.main-header {
+    color: rgb(106, 13, 192);
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.main-content {
+    background-color: #ffffff;
+    border: #dddddd solid 2px;
+}
+
+.footer {
+    background-color: #666666;
+    border-top: rgb(106, 13, 192) solid 4px;
+    text-align: center;
+    color: #cccccc;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#bio {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ffffff;
+}
+
+#my-face {
+    width: 150px;
+    height: 125px;
+}
+
+#rainbow-six-siege {
+    width: 268px;
+    height: 151;
+}
+
+#world-of-warcraft {
+    width: 759px;
+    height: 427px;
+}
+
+#set-design {
+    width: 424px;
+    height: 425px;
+}

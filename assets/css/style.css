@@ -214,25 +214,3 @@ input[type=text]:focus {
     flex: 100px;
     margin: 0 40px 40px 0;
 }
-
-/*#portfolio-pics {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    display: flex;
-    justify-content: flex-start;
-    flex-flow: wrap;
-    width: 500px;
-}
-  
-.portfolio-image {
-    display: inline-block;
-    position: relative;
-}
-  
-.port-labels {
-    background-color: rgba(0, 0, 0, 0.6);
-    position: absolute;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    top: 0;
-}*/
